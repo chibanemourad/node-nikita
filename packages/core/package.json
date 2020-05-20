@@ -55,7 +55,7 @@
     "jsesc": "~2.5.2",
     "minimatch": "~3.0.4",
     "mixme": "^0.3.1",
-    "moment": "~2.24.0",
+    "moment": "~2.26.0",
     "mustache": "~3.0.1",
     "nunjucks": "~3.2.0",
     "pad": "~2.3.0",
