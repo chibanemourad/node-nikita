@@ -61,7 +61,7 @@
     "pad": "~2.3.0",
     "regexp-quote": "~0.0.0",
     "semver": "^6.0.0",
-    "ssh2-connect": "~2.0.5",
+    "ssh2-connect": "~3.0.0",
     "ssh2-exec": "~0.5.2",
     "ssh2-fs": "^0.3.7",
     "stack-trace": "~0.0.10",
