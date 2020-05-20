@@ -63,7 +63,7 @@
     "semver": "^6.0.0",
     "ssh2-connect": "~2.0.5",
     "ssh2-exec": "~0.5.2",
-    "ssh2-fs": "^0.3.7",
+    "ssh2-fs": "^1.0.4",
     "stack-trace": "~0.0.10",
     "tilde-expansion": "~0.0.0"
   },
