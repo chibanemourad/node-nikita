@@ -58,7 +58,7 @@
     "moment": "~2.24.0",
     "mustache": "~3.0.1",
     "nunjucks": "~3.2.0",
-    "pad": "~2.3.0",
+    "pad": "~3.2.0",
     "regexp-quote": "~0.0.0",
     "semver": "^6.0.0",
     "ssh2-connect": "~2.0.5",
